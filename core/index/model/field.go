@@ -1,7 +1,7 @@
 package model
 
 import (
-	"github.com/balzaczyy/golucene/core/analysis"
+	"github.com/rizwan-amir123/golucene/core/analysis"
 	"io"
 )
 

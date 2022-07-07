@@ -1,7 +1,7 @@
 package search
 
 import (
-	"github.com/balzaczyy/golucene/core/index"
+	"github.com/rizwan-amir123/golucene/core/index"
 )
 
 // search/similarities/Similarity.java

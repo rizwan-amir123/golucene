@@ -2,8 +2,8 @@ package lucene41
 
 import (
 	"fmt"
-	"github.com/balzaczyy/golucene/core/util"
-	"github.com/balzaczyy/golucene/core/util/packed"
+	"github.com/rizwan-amir123/golucene/core/util"
+	"github.com/rizwan-amir123/golucene/core/util/packed"
 	"math"
 )
 

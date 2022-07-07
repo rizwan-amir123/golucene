@@ -1,7 +1,7 @@
 package index
 
 import (
-	"github.com/balzaczyy/golucene/core/store"
+	"github.com/rizwan-amir123/golucene/core/store"
 )
 
 /* Prefix codes term instances (prefixes are shared) */

@@ -1,7 +1,7 @@
 package automaton
 
 import (
-	// . "github.com/balzaczyy/golucene/test_framework"
+	// . "github.com/rizwan-amir123/golucene/test_framework"
 	"testing"
 )
 

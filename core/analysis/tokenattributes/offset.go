@@ -1,7 +1,7 @@
 package tokenattributes
 
 import (
-	"github.com/balzaczyy/golucene/core/util"
+	"github.com/rizwan-amir123/golucene/core/util"
 )
 
 /* The start and end character offset of a Token. */

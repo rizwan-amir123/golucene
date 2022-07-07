@@ -1,9 +1,9 @@
 package index
 
 import (
-	ta "github.com/balzaczyy/golucene/core/analysis/tokenattributes"
-	. "github.com/balzaczyy/golucene/core/index/model"
-	"github.com/balzaczyy/golucene/core/util"
+	ta "github.com/rizwan-amir123/golucene/core/analysis/tokenattributes"
+	. "github.com/rizwan-amir123/golucene/core/index/model"
+	"github.com/rizwan-amir123/golucene/core/util"
 )
 
 // index/InvertedDocConsumerPerField.java

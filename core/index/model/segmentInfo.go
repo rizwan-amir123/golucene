@@ -3,8 +3,8 @@ package model
 import (
 	"bytes"
 	"fmt"
-	"github.com/balzaczyy/golucene/core/store"
-	"github.com/balzaczyy/golucene/core/util"
+	"github.com/rizwan-amir123/golucene/core/store"
+	"github.com/rizwan-amir123/golucene/core/util"
 	"regexp"
 	"strconv"
 )

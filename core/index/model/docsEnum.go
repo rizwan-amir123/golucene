@@ -1,7 +1,7 @@
 package model
 
 import (
-	. "github.com/balzaczyy/golucene/core/search/model"
+	. "github.com/rizwan-amir123/golucene/core/search/model"
 )
 
 const (

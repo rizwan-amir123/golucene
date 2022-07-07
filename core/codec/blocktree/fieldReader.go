@@ -1,9 +1,9 @@
 package blocktree
 
 import (
-	. "github.com/balzaczyy/golucene/core/index/model"
-	"github.com/balzaczyy/golucene/core/store"
-	"github.com/balzaczyy/golucene/core/util/fst"
+	. "github.com/rizwan-amir123/golucene/core/index/model"
+	"github.com/rizwan-amir123/golucene/core/store"
+	"github.com/rizwan-amir123/golucene/core/util/fst"
 )
 
 type FieldReader struct {

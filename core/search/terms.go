@@ -3,10 +3,10 @@ package search
 import (
 	"bytes"
 	"fmt"
-	"github.com/balzaczyy/golucene/core/index"
-	. "github.com/balzaczyy/golucene/core/index/model"
-	. "github.com/balzaczyy/golucene/core/search/model"
-	"github.com/balzaczyy/golucene/core/util"
+	"github.com/rizwan-amir123/golucene/core/index"
+	. "github.com/rizwan-amir123/golucene/core/index/model"
+	. "github.com/rizwan-amir123/golucene/core/search/model"
+	"github.com/rizwan-amir123/golucene/core/util"
 	"reflect"
 )
 

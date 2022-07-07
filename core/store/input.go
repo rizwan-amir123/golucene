@@ -2,7 +2,7 @@ package store
 
 import (
 	"errors"
-	"github.com/balzaczyy/golucene/core/util"
+	"github.com/rizwan-amir123/golucene/core/util"
 	"io"
 )
 

@@ -2,13 +2,13 @@ package main
 
 import (
 	"fmt"
-	std "github.com/balzaczyy/golucene/analysis/standard"
-	_ "github.com/balzaczyy/golucene/core/codec/lucene410"
-	"github.com/balzaczyy/golucene/core/document"
-	"github.com/balzaczyy/golucene/core/index"
-	"github.com/balzaczyy/golucene/core/search"
-	"github.com/balzaczyy/golucene/core/store"
-	"github.com/balzaczyy/golucene/core/util"
+	std "github.com/rizwan-amir123/golucene/analysis/standard"
+	_ "github.com/rizwan-amir123/golucene/core/codec/lucene410"
+	"github.com/rizwan-amir123/golucene/core/document"
+	"github.com/rizwan-amir123/golucene/core/index"
+	"github.com/rizwan-amir123/golucene/core/search"
+	"github.com/rizwan-amir123/golucene/core/store"
+	"github.com/rizwan-amir123/golucene/core/util"
 	"os"
 )
 

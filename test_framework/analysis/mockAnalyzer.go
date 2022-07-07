@@ -1,8 +1,8 @@
 package analysis
 
 import (
-	ca "github.com/balzaczyy/golucene/core/analysis"
-	auto "github.com/balzaczyy/golucene/core/util/automaton"
+	ca "github.com/rizwan-amir123/golucene/core/analysis"
+	auto "github.com/rizwan-amir123/golucene/core/util/automaton"
 	"math/rand"
 )
 

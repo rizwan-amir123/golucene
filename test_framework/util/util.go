@@ -1,7 +1,7 @@
 package util
 
 import (
-	. "github.com/balzaczyy/gounit"
+	. "github.com/rizwan-amir123/gounit"
 	"io/ioutil"
 	"math/rand"
 	"os"

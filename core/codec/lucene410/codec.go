@@ -1,13 +1,13 @@
 package lucene410
 
 import (
-	"github.com/balzaczyy/golucene/core/codec/lucene40"
-	"github.com/balzaczyy/golucene/core/codec/lucene41"
-	"github.com/balzaczyy/golucene/core/codec/lucene42"
-	"github.com/balzaczyy/golucene/core/codec/lucene46"
-	"github.com/balzaczyy/golucene/core/codec/lucene49"
-	"github.com/balzaczyy/golucene/core/codec/perfield"
-	. "github.com/balzaczyy/golucene/core/codec/spi"
+	"github.com/rizwan-amir123/golucene/core/codec/lucene40"
+	"github.com/rizwan-amir123/golucene/core/codec/lucene41"
+	"github.com/rizwan-amir123/golucene/core/codec/lucene42"
+	"github.com/rizwan-amir123/golucene/core/codec/lucene46"
+	"github.com/rizwan-amir123/golucene/core/codec/lucene49"
+	"github.com/rizwan-amir123/golucene/core/codec/perfield"
+	. "github.com/rizwan-amir123/golucene/core/codec/spi"
 )
 
 // codec/lucene410/Lucene410Codec.java

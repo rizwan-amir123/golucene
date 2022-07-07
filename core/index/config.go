@@ -1,8 +1,8 @@
 package index
 
 import (
-	"github.com/balzaczyy/golucene/core/analysis"
-	"github.com/balzaczyy/golucene/core/util"
+	"github.com/rizwan-amir123/golucene/core/analysis"
+	"github.com/rizwan-amir123/golucene/core/util"
 )
 
 // index/IndexWriterConfig.java

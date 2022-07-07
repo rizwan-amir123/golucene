@@ -2,7 +2,7 @@ package index
 
 import (
 	"fmt"
-	"github.com/balzaczyy/golucene/core/store"
+	"github.com/rizwan-amir123/golucene/core/store"
 	"testing"
 )
 

@@ -1,8 +1,8 @@
 package analysis
 
 import (
-	. "github.com/balzaczyy/golucene/core/analysis/tokenattributes"
-	"github.com/balzaczyy/golucene/core/util"
+	. "github.com/rizwan-amir123/golucene/core/analysis/tokenattributes"
+	"github.com/rizwan-amir123/golucene/core/util"
 	"io"
 )
 

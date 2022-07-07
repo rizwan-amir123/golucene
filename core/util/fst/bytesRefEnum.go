@@ -1,7 +1,7 @@
 package fst
 
 import (
-	"github.com/balzaczyy/golucene/core/util"
+	"github.com/rizwan-amir123/golucene/core/util"
 )
 
 type BytesRefFSTEnum struct {
